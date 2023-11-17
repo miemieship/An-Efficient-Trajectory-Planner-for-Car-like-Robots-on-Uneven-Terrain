@@ -32,4 +32,4 @@ Click on the image below to watch the experimental video:
 [![Watch the video](archieve/bilibili.png)](//player.bilibili.com/player.html?aid=780647109&bvid=BV1B24y1G7h5&cid=1046170756&p=1)
 
 ## preprint paper
-The paper is submitted to ICRA2024, which is under review now. Click [here](https://arxiv.org/pdf/2309.06115.pdf) to see the preprint version.
+The paper is accepted by IROS2023, which is under review now. Click [here](https://arxiv.org/pdf/2309.06115.pdf) to see the preprint version.
